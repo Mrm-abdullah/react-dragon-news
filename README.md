@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh -->
 
 ## Instalassion
-#    from https://reactrouter.com/6.29.0/start/tutorial
+* from https://reactrouter.com/6.29.0/start/tutorial
 * npm create vite@latest react-dragon-news -- --template react
 * npm install react-router-dom localforage match-sorter sort-by
 
@@ -21,6 +21,18 @@ Currently, two official plugins are available:
 * install > npm install firebase
 * setup secret code to src>firebase>firebase.config.js and export default app;
 * go to build> authentication > get started of firebase
+
+## folder structure
+>src
+    >firebase
+        >firebase.config.js
+    >routes
+        >Routes.jsx
+    >layout
+        >Root.jsx > outlet
+    >page
+        >Home.jsx
+
 * 
 * 
 * 
