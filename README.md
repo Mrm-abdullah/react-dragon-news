@@ -23,19 +23,29 @@ Currently, two official plugins are available:
 * go to build> authentication > get started of firebase
 
 ## folder structure
->src
-    >firebase
-        >firebase.config.js
-    >routes
-        >Routes.jsx
-    >layout
-        >Root.jsx > outlet
-    >page
-        >Home.jsx
+* >src
+*   >firebase
+*      >firebase.config.js
+*   >routes
+*      >Routes.jsx
+*   >layout
+*      >Root.jsx > outlet
+*   >page
+*      >Home.jsx
+*      >Shared
+*         >Header.jsx
+*         >Navbar.jsx
+* 
+* 
+* 
 
-* 
-* 
-* 
+## font
+* go to and collect poppins https://fonts.google.com/
+* import index.css
+
+## time show 
+* got to > https://momentjs.com/
+* install > npm install moment --save
 * 
 * 
 * 
