@@ -46,7 +46,9 @@ Currently, two official plugins are available:
 ## time show 
 * got to > https://momentjs.com/
 * install > npm install moment --save
-* 
+
+## slider marquee
+* go to > https://www.npmjs.com/package/react-fast-marquee
 * 
 * 
 * 
