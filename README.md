@@ -50,6 +50,10 @@ Currently, two official plugins are available:
 ## slider marquee
 * go to > https://www.npmjs.com/package/react-fast-marquee
 * 
+
+## react icon 
+* got to > https://react-icons.github.io/react-icons/
+* install > npm i react-icons
 * 
 * 
 * 
