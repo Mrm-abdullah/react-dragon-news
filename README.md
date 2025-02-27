@@ -54,7 +54,9 @@ Currently, two official plugins are available:
 ## react icon 
 * got to > https://react-icons.github.io/react-icons/
 * install > npm i react-icons
-* 
+
+## git repo poriborton korle
+* git remote set-url origin
 * 
 * 
 * 
